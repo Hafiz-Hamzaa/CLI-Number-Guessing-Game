@@ -1,0 +1,21 @@
+{
+  "name": "ts-based-cli-number-guessing-game",
+  "version": "2.0.0",
+  "description": "In this project user guess a number and if the user guess the right number he win the game!.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hafiz Hamza",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16",
+    "ts-based-cli-number-guessing-game": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
